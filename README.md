@@ -23,8 +23,8 @@ QLUSQUIQHCEHYJKHYJUIQBKJQDJ
 ```
 
 ## Future improvements
-[ ] Error handling
-[ ] Key could be negative for quicker decryption
-[ ] Unicode support
-[ ] Automated unit tests
+- [ ] Error handling
+- [ ] Key could be negative for quicker decryption
+- [ ] Unicode support
+- [ ] Automated unit tests
 
